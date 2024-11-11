@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+Romell Mertis - Resume Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the source code for my personal resume website! This project showcases my skills, experience, and interests in software engineering, AI, and more. Built with modern web technologies, it is designed to provide a clean and engaging user experience.
 
-## Available Scripts
+Features
 
-In the project directory, you can run:
+	•	Navbar with Logo: The name “Romell Mertis” in the navbar has been replaced with a custom logo, which also serves as the home link.
+	•	Animated Intro: The homepage displays a dynamically animated statement of interest in AI, machine learning, robotics, and computer engineering using ReactTyped.
+	•	Content Layout: The content on the home page is shifted to the left by 50%, with my name and interest statement centered below the navbar, followed by social links and a photo positioned lower by 30%.
+	•	Skills Section: A skills category on the right side of the home page features programming language logos on a gray background, with white icons for a modern look.
+	•	Responsive Design: The site is optimized for different screen sizes and devices, ensuring a seamless experience on both desktop and mobile platforms.
 
-### `npm start`
+Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+	•	React: For building the user interface and components.
+	•	ReactTyped: For animated text effects on the homepage.
+	•	CSS: For styling and layout adjustments.
+	•	JavaScript: For handling interactivity and functionality.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+How to Run the Project
 
-### `npm test`
+	1.	Clone the repository:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+git clone https://github.com/romell2018/romell2018.github.oi.git
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+	2.	Navigate into the project directory:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+cd resume-website
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+	3.	Install dependencies:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+npm install
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+	4.	Start the development server:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+npm start
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+	5.	Open your browser and go to http://localhost:3000 to view the website.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Future Improvements
 
-### Code Splitting
+	•	Add More Animations: Enhance the visual appeal of the website with additional animations.
+	•	SEO Optimization: Improve search engine optimization to increase visibility.
+	•	Accessibility: Ensure the website is fully accessible and user-friendly for all visitors.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for visiting my resume website repository!
