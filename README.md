@@ -21,9 +21,9 @@ How to Run the Project
 
 	1.	Clone the repository:
 
-git clone https://github.com/romell2018/romell2018.github.oi.git
+git clone 
 
-
+https://github.com/romell2018/romell2018.github.io.git
 	2.	Navigate into the project directory:
 
 cd resume-website
