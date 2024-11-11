@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/romell2018.github.io/romell-mertis-resume/static/css/main.0c06cea8.css",
-    "main.js": "/romell2018.github.io/romell-mertis-resume/static/js/main.7608ec3d.js",
-    "static/js/453.bcc3db4a.chunk.js": "/romell2018.github.io/romell-mertis-resume/static/js/453.bcc3db4a.chunk.js",
-    "static/media/0.jpg": "/romell2018.github.io/romell-mertis-resume/static/media/0.22ddcd272cbc5b032de0.jpg",
-    "static/media/python.png": "/romell2018.github.io/romell-mertis-resume/static/media/python.6a5cbc319ab3ddf8ef92.png",
-    "static/media/java.png": "/romell2018.github.io/romell-mertis-resume/static/media/java.ddf8676bd569fe01ab44.png",
-    "static/media/c-.png": "/romell2018.github.io/romell-mertis-resume/static/media/c-.24a8f93854ab092f17a7.png",
-    "static/media/java-script.png": "/romell2018.github.io/romell-mertis-resume/static/media/java-script.78206ba65e01c7d57080.png",
-    "index.html": "/romell2018.github.io/romell-mertis-resume/index.html",
-    "main.0c06cea8.css.map": "/romell2018.github.io/romell-mertis-resume/static/css/main.0c06cea8.css.map",
-    "main.7608ec3d.js.map": "/romell2018.github.io/romell-mertis-resume/static/js/main.7608ec3d.js.map",
-    "453.bcc3db4a.chunk.js.map": "/romell2018.github.io/romell-mertis-resume/static/js/453.bcc3db4a.chunk.js.map"
+    "main.css": "/romell-mertis-resume/static/css/main.0c06cea8.css",
+    "main.js": "/romell-mertis-resume/static/js/main.c4bea380.js",
+    "static/js/453.bcc3db4a.chunk.js": "/romell-mertis-resume/static/js/453.bcc3db4a.chunk.js",
+    "static/media/0.jpg": "/romell-mertis-resume/static/media/0.22ddcd272cbc5b032de0.jpg",
+    "static/media/python.png": "/romell-mertis-resume/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/java.png": "/romell-mertis-resume/static/media/java.ddf8676bd569fe01ab44.png",
+    "static/media/c-.png": "/romell-mertis-resume/static/media/c-.24a8f93854ab092f17a7.png",
+    "static/media/java-script.png": "/romell-mertis-resume/static/media/java-script.78206ba65e01c7d57080.png",
+    "index.html": "/romell-mertis-resume/index.html",
+    "main.0c06cea8.css.map": "/romell-mertis-resume/static/css/main.0c06cea8.css.map",
+    "main.c4bea380.js.map": "/romell-mertis-resume/static/js/main.c4bea380.js.map",
+    "453.bcc3db4a.chunk.js.map": "/romell-mertis-resume/static/js/453.bcc3db4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c06cea8.css",
-    "static/js/main.7608ec3d.js"
+    "static/js/main.c4bea380.js"
   ]
 }
