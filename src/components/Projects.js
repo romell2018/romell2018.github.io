@@ -12,7 +12,7 @@ const projects = [
     description: 'Clothing website using React, TailwindCSS, and Go lang for the backend',
     img: clothingweb, // Add your own image path
     link: 'https://shop.duvenchy.com',
-    sourceCode: 'https://github.com/your-repo/project2'
+    sourceCode: 'https://github.com/romell2018/shop.duvenchy'
   },
   // {
   //   title: 'Project 2',
