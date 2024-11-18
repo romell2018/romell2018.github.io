@@ -13,7 +13,7 @@ const Home = () => {
   const skills = [
     { name: 'C++',logo: Cpp }, 
     { name: 'Java', logo: java },
-    { name: 'Java-Stript', logo: js },
+    { name: 'JavaScript', logo: js },
     { name: 'Python',logo: py }, 
     
     // Add more skills here
